@@ -1,1 +1,2 @@
-# RTOS_Lab
+# RTOS-LAB
+lab git repository
